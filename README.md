@@ -15,6 +15,6 @@ Open Run
 
 Type into Run "shell:common startup" (Or "shell:startup" for one user) and press OK.
 
-Drop the files into your startup folder
+Drop the files in the "dist" folder into your startup folder
 
 Restart, and Voila! Vanguard is killed at boot!
